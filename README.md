@@ -17,7 +17,7 @@ Script Python que coleta cotações de moedas, taxas de juros SELIC e histórico
 $ git clone linkrepo
 
 # Acesse a pasta do projeto no seu terminal
-$ cd projeto_moedas
+$ cd Desafio-Python-Compass
 
 # Instale dependências
 $ pip install requests pandas openpyxl
